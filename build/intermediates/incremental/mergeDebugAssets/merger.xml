@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\ggsddu\ggsddu\assets"><file name="ShareSDK.xml" path="E:\ggsddu\ggsddu\assets\ShareSDK.xml"/></source><source path="E:\ggsddu\ggsddu\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\ggsddu\ggsddu\build-types\debug\assets"/></dataSet></merger>

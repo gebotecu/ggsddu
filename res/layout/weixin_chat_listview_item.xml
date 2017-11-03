@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp" >
+
+    <ImageView
+        android:id="@+id/weixin_chat_listview_item_usericon"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/icon" />
+
+    <ImageView
+        android:id="@+id/weixin_chat_listview_item_chatbg"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:scaleType="fitXY"
+        android:clickable="true"
+        android:layout_toLeftOf="@id/weixin_chat_listview_item_usericon"
+        android:src="@drawable/chatto_bg_focused" />
+
+    <ImageView
+        android:id="@+id/weixin_chat_listview_item_voice"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/weixin_chat_listview_item_usericon"
+        android:src="@drawable/v_anim3" />
+    
+    <TextView
+        android:id="@+id/weixin_chat_listview_item_length"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="4''"
+        android:layout_toLeftOf="@id/weixin_chat_listview_item_chatbg"
+        android:textSize="30sp" />
+
+</RelativeLayout>

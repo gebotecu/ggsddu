@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\anim\\translate_animation.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\anim\\translate_animation.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\anim\\frame_animation.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\anim\\frame_animation.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\anim\\set_animation.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\anim\\set_animation.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\anim\\scale_animatiom.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\anim\\scale_animatiom.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\anim\\retate_animation.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\anim\\retate_animation.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_animation.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\anim\\alpha_animation.xml"
+    }
+]

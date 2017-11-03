@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ggsddu="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <com.example.ggsddu.view.HistogramView 
+        android:id="@+id/historyview"
+        android:layout_width="320dp"
+        android:layout_height="400dp"
+        ggsddu:title="直方图"
+        ggsddu:titlesize="30sp"
+        ggsddu:scalesize="10sp"
+        ggsddu:xcolor="#FF0000"
+        ggsddu:ycolor="#00FF00"
+        ggsddu:xdegree="2dp"
+        ggsddu:ydegree="2dp"
+        />
+
+</LinearLayout>

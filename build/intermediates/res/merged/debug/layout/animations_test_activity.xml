@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+	<TextView 
+	    android:id="@+id/java_realize"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="代码实现"/>
+    <LinearLayout
+        android:id="@+id/java_tween_animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/java_realize"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/alpha_java"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="alpha" />
+        <Button
+            android:id="@+id/rotate_java"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="rotate" />
+        <Button
+            android:id="@+id/translate_java"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="translate" />
+        <Button
+            android:id="@+id/scale_java"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="scale" />
+        
+    </LinearLayout>
+    
+    <TextView 
+	    android:id="@+id/xml_realize"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/java_tween_animation"
+	    android:text="xml实现"/>
+    <HorizontalScrollView 
+        android:id="@+id/xml_scroll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/xml_realize">
+        <LinearLayout
+            android:id="@+id/xml_tween_animation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/alpha_xml"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="alpha" />
+
+            <Button
+                android:id="@+id/rotate_xml"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="rotate" />
+
+            <Button
+                android:id="@+id/translate_xml"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="translate" />
+
+            <Button
+                android:id="@+id/scale_xml"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="scale" />
+
+            <Button
+                android:id="@+id/set_xml"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="set" />
+
+            <Button
+                android:id="@+id/frame_xml"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="frame" />
+        </LinearLayout>
+
+    </HorizontalScrollView>
+    
+    <TextView 
+	    android:id="@+id/animator_text"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/xml_scroll"
+	    android:text="animator"/>
+    <HorizontalScrollView 
+        android:id="@+id/animator_scroll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/animator_text">
+        <LinearLayout
+            android:id="@+id/animator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/objectanimator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="objectanimator" />
+
+            
+        </LinearLayout>
+
+    </HorizontalScrollView>
+	
+	<ImageView 
+	    android:id="@+id/animation_test_imageview1"
+	    android:layout_width="20dp"
+	    android:layout_height="20dp"
+	    android:layout_marginBottom="50dp"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:background="@drawable/icon"/>
+	<ImageView 
+	    android:id="@+id/animation_test_imageview2"
+	    android:layout_width="20dp"
+	    android:layout_height="20dp"
+	    android:layout_marginBottom="50dp"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:background="@drawable/icon"/>
+	<ImageView 
+	    android:id="@+id/animation_test_imageview3"
+	    android:layout_width="20dp"
+	    android:layout_height="20dp"
+	    android:layout_marginBottom="50dp"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:background="@drawable/icon"/>
+	<ImageView 
+	    android:id="@+id/animation_test_imageview4"
+	    android:layout_width="20dp"
+	    android:layout_height="20dp"
+	    android:layout_marginBottom="50dp"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:background="@drawable/icon"/>
+	<ImageView 
+	    android:id="@+id/animation_test_imageview5"
+	    android:layout_width="20dp"
+	    android:layout_height="20dp"
+	    android:layout_marginBottom="50dp"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:background="@drawable/icon"/>
+	<ImageView 
+	    android:id="@+id/animation_test_imageview6"
+	    android:layout_width="20dp"
+	    android:layout_height="20dp"
+	    android:layout_marginBottom="50dp"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:background="@drawable/icon"/>
+	<ImageView 
+	    android:id="@+id/animation_test_imageview"
+	    android:layout_width="20dp"
+	    android:layout_height="20dp"
+	    android:layout_marginBottom="50dp"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:background="@drawable/icon"/>
+</RelativeLayout>

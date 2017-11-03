@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\sqlit_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\sqlit_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\custom_view_test_acitivity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\custom_view_test_acitivity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_title.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\viewpager_title.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\pintu_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\pintu_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_item2.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\recyclerview_item2.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\mob_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\mob_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\viewholder_test_item.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\viewholder_test_item.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\weixin_chat_page_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\weixin_chat_page_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\viewholder_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\viewholder_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_bottom.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\viewpager_bottom.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\download_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\download_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\freestyle_listview_item1.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\freestyle_listview_item1.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_item3.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\recyclerview_item3.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\viewholder_test_listview_rootview.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\viewholder_test_listview_rootview.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\weixin_chat_dialog.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\weixin_chat_dialog.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\webview_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\webview_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\mediaplayer_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\mediaplayer_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_pro_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\adapter_pro_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\freestyle_listview_item2.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\freestyle_listview_item2.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\videoview_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\videoview_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\combination_view.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\combination_view.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\extends_view_item.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\extends_view_item.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_item1.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\recyclerview_item1.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\zxing_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\viewholder_test_listview_headview.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\viewholder_test_listview_headview.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\baidumap_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\baidumap_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\gaode_map_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\gaode_map_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_fragment.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\viewpager_fragment.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\weixin_chat_listview_item.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\weixin_chat_listview_item.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\freestyle_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\freestyle_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\recyclerview_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\touch_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\touch_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\histogram_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\histogram_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\viewpager_test_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_images_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\carousel_images_activity.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\extends_view.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\extends_view.xml"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\layout\\animations_test_activity.xml",
+        "source": "E:\\ggsddu\\ggsddu\\res\\layout\\animations_test_activity.xml"
+    }
+]

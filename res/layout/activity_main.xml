@@ -1,0 +1,158 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ggsddu.MainActivity" >
+
+    <Button
+        android:id="@+id/viewholder_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="viewholder_test" />
+
+    <Button
+        android:id="@+id/sqlite_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@id/viewholder_test"
+        android:text="sqlite_test" />
+
+    <Button
+        android:id="@+id/custom_view_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/viewholder_test"
+        android:layout_marginLeft="0dp"
+        android:text="custom_view_test" />
+
+    <Button
+        android:id="@+id/viewpager_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sqlite_test"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@id/custom_view_test"
+        android:text="viewpager_test" />
+
+    <Button
+        android:id="@+id/weixin_chat_page_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/custom_view_test"
+        android:text="weixin_chat_page_test" />
+
+    <Button
+        android:id="@+id/recyclerview_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/weixin_chat_page_test"
+        android:text="recyclerview_test" />
+
+    <Button
+        android:id="@+id/adapter_pro_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recyclerview_test"
+        android:text="adapter_pro_test" />
+
+    <Button
+        android:id="@+id/animation_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recyclerview_test"
+        android:layout_toRightOf="@id/adapter_pro_test"
+        android:text="animation_test" />
+
+    <Button
+        android:id="@+id/webview_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/animation_test"
+        android:text="webview_test" />
+
+    <Button
+        android:id="@+id/baidumap_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/animation_test"
+        android:layout_toRightOf="@id/webview_test"
+        android:text="baidumap_test" />
+
+    <Button
+        android:id="@+id/mob_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/animation_test"
+        android:layout_toRightOf="@id/baidumap_test"
+        android:text="mob_test" />
+
+    <Button
+        android:id="@+id/download_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/webview_test"
+        android:text="download_test" />
+
+    <Button
+        android:id="@+id/pintu_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/webview_test"
+        android:layout_toRightOf="@id/download_test"
+        android:text="pintu_test" />
+
+    <Button
+        android:id="@+id/mediaplayer_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/download_test"
+        android:text="mediaplayer_test" />
+
+    <Button
+        android:id="@+id/videoview_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/download_test"
+        android:layout_toRightOf="@id/mediaplayer_test"
+        android:text="videoview_test" />
+
+    <Button
+        android:id="@+id/carousel_images_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/videoview_test"
+        android:text="carousel_images_test" />
+
+    <Button
+        android:id="@+id/histogram_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/videoview_test"
+        android:layout_toRightOf="@id/carousel_images_test"
+        android:text="histogram_test" />
+
+    <Button
+        android:id="@+id/freestyle_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/carousel_images_test"
+        android:text="freestyle_test" />
+
+    <Button
+        android:id="@+id/touch_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/carousel_images_test"
+        android:layout_toRightOf="@id/freestyle_test"
+        android:text="touch_test" />
+
+    <Button
+        android:id="@+id/gaode_map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/carousel_images_test"
+        android:layout_toRightOf="@id/touch_test"
+        android:text="gaode_map" />
+
+</RelativeLayout>

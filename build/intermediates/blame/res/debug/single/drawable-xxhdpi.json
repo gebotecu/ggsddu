@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\ggsddu\\ggsddu\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qr_code_bg.9.png",
+        "source": "E:\\ggsddu\\ggsddu\\res\\drawable-xxhdpi\\qr_code_bg.9.png"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\shadow.png",
+        "source": "E:\\ggsddu\\ggsddu\\res\\drawable-xxhdpi\\shadow.png"
+    },
+    {
+        "merged": "E:\\ggsddu\\ggsddu\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scan_line.png",
+        "source": "E:\\ggsddu\\ggsddu\\res\\drawable-xxhdpi\\scan_line.png"
+    }
+]

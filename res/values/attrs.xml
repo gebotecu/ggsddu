@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="MyProgressbar">
+        <attr name="leftlineheight" format="dimension"/>
+        <attr name="leftlinecolor" format="color"/>
+        <attr name="rightlineheight" format="dimension"/>
+        <attr name="rightlinecolor" format="color"/>
+        <attr name="textsize" format="dimension"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="bitmapwidth" format="dimension"/>
+        <attr name="bitmapheight" format="dimension"/>
+    </declare-styleable>
+    
+    <declare-styleable name = "HistogramView">
+        <attr name="xcolor" format="color|integer" />
+        <attr name="ycolor" format="color|integer" />
+        <attr name="xdegree" format="dimension" />
+        <attr name="ydegree" format="dimension" />
+        <attr name="title" format="string" />
+        <attr name="titlesize" format="dimension" />
+        <attr name="scalesize" format="dimension" />
+    </declare-styleable>
+</resources>

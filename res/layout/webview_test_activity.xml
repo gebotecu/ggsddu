@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:ggsddu="http://schemas.android.com/apk/res/com.example.ggsddu"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+    
+	<!-- <TextView 
+	    android:id="@+id/webview_test_textview"
+	    android:layout_width="match_parent"
+	    android:layout_height="50dp"
+	    android:text="aaaaa"/> -->
+	<!-- <ProgressBar 
+	    android:id="@+id/webview_test_progressbar"
+	    android:layout_width="match_parent"
+	    android:layout_height="1dp"
+	    android:layout_below="@id/webview_test_textview"
+	    android:visibility="invisible"
+	    style="@android:style/Widget.ProgressBar.Horizontal"/>
+	 -->
+	<com.example.ggsddu.view.MyProgressbar 
+	    android:id="@+id/webview_test_myprogressbar"
+	    android:layout_width="match_parent"
+	    android:layout_height="18dp"
+	    android:visibility="invisible"
+	    
+	    ggsddu:leftlineheight="2dp"
+	    ggsddu:rightlineheight="1dp"
+	    ggsddu:leftlinecolor="#FF0000FF"
+	    ggsddu:rightlinecolor="#220000FF"/>
+	
+	<WebView 
+	    android:id="@+id/webview_test_webview"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_below="@id/webview_test_myprogressbar"
+	    android:layout_margin="5dp"
+	    android:visibility="visible"/>
+</RelativeLayout>

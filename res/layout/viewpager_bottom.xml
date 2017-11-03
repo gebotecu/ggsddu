@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#888888"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/view_pager_bottom_item1"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <com.example.ggsddu.view.ViewPagerBottomImageView
+            android:id="@+id/view_pager_bottom_imageview1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:clickable="false" />
+
+        <TextView
+            android:id="@+id/view_pager_bottom_textview1"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="3dp"
+            android:gravity="center"
+            android:text="播放"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/view_pager_bottom_item2"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <com.example.ggsddu.view.ViewPagerBottomImageView
+            android:id="@+id/view_pager_bottom_imageview2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:clickable="false" />
+
+        <TextView
+            android:id="@+id/view_pager_bottom_textview2"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="3dp"
+            android:gravity="center"
+            android:text="分享"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/view_pager_bottom_item3"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <com.example.ggsddu.view.ViewPagerBottomImageView
+            android:id="@+id/view_pager_bottom_imageview3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:clickable="false"/>
+
+        <TextView
+            android:id="@+id/view_pager_bottom_textview3"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="3dp"
+            android:gravity="center"
+            android:text="收藏"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/view_pager_bottom_item4"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <com.example.ggsddu.view.ViewPagerBottomImageView
+            android:id="@+id/view_pager_bottom_imageview4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:clickable="false" />
+
+        <TextView
+            android:id="@+id/view_pager_bottom_textview4"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="3dp"
+            android:gravity="center"
+            android:text="影人"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</LinearLayout>

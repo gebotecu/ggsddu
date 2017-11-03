@@ -1,0 +1,7 @@
+#Wed Oct 25 15:13:26 CST 2017
+base.0=E\:\\ggsddu\\ggsddu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9ae893973d8ed567a21f1dfd3985ef161daf13cf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\ggsddu\\ggsddu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86ec1a41e1f13eec761179052a2d09ca58fe2848\\classes.dex
+base.1=E\:\\ggsddu\\ggsddu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86ec1a41e1f13eec761179052a2d09ca58fe2848
+file.0=E\:\\ggsddu\\ggsddu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9ae893973d8ed567a21f1dfd3985ef161daf13cf\\classes.dex

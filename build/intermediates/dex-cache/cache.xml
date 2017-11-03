@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1fe665b784aa7314d722b2ec17e77f83ba2e717">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_4b61c537042fc73c103c1fa0b6746cbb12eb1a24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_bcd5bc2e7ce2a408456bce14ba37c0503005225f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\MobCommons-2017.0608.1618.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26d8b21098208806ac92abba3cbbf9859cda903a">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2017.0608.1618_ab7a8c933c72d1baea4bce23983a71331cecec5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\ShareSDK-QQ-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79d8de16734d7a07503d206fe3a93ba393e3b573">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\ShareSDK-QQ-3.0.0_03845ef498f8eb94f31a96efaf01f3df78fa2a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\Android_Map3D_SDK_V5.4.0_20170928.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e6ca382790aa5ca89094e600da12f1a12932870">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.4.0_20170928_a608990e337b8647afe89543575dae4fc6cd68e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9ae893973d8ed567a21f1dfd3985ef161daf13cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1fe665b784aa7314d722b2ec17e77f83ba2e717">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\android-support-v4_4b61c537042fc73c103c1fa0b6746cbb12eb1a24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\MobTools-2017.0608.1618.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd18b5e54c100ded555e92c371c16bea49002ed">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\MobTools-2017.0608.1618_ca3750695e116f8bdd670d577870e6bb388c8b1b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\MobTools-2017.0608.1618.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd18b5e54c100ded555e92c371c16bea49002ed">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2017.0608.1618_ca3750695e116f8bdd670d577870e6bb388c8b1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b4c57d8c6ad884c93da9d935e7b817ecec4cc1c">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_86ec1a41e1f13eec761179052a2d09ca58fe2848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\ShareSDK-Core-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27dcf5889fee23416fadfeae3d1d11f3d06b27d1">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-3.0.0_e3fdb8ae35c5fa1591ef7ae92e7602cbcaafb9d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\Android_Map3D_SDK_V5.4.0_20170928.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e6ca382790aa5ca89094e600da12f1a12932870">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Map3D_SDK_V5.4.0_20170928_a608990e337b8647afe89543575dae4fc6cd68e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\volley_c1f6e448a69b36fe02b82d818b1062751a089bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\ShareSDK-Core-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27dcf5889fee23416fadfeae3d1d11f3d06b27d1">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\ShareSDK-Core-3.0.0_e3fdb8ae35c5fa1591ef7ae92e7602cbcaafb9d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_bcd5bc2e7ce2a408456bce14ba37c0503005225f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\ShareSDK-QZone-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0d8318d2fce05bcc0fc98fe5da79fe2138df1b9">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-3.0.0_c2507e48a4cbde1ade8beb383b4bccadcc80856d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\volley_c1f6e448a69b36fe02b82d818b1062751a089bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2bc37c624c52ad6502a03c951f640a820ed3a07">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_be03198fd285b3730e96f604cd070bfc416d63c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\ShareSDK-QZone-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0d8318d2fce05bcc0fc98fe5da79fe2138df1b9">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\ShareSDK-QZone-3.0.0_c2507e48a4cbde1ade8beb383b4bccadcc80856d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2bc37c624c52ad6502a03c951f640a820ed3a07">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v7-recyclerview_be03198fd285b3730e96f604cd070bfc416d63c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc32440892ce9594b981d03ac2c1d9840504bc8">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_486a53291ae28ade9184e837aef3eec498228daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ggsddu\ggsddu\libs\ShareSDK-QQ-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79d8de16734d7a07503d206fe3a93ba393e3b573">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-3.0.0_03845ef498f8eb94f31a96efaf01f3df78fa2a61\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc32440892ce9594b981d03ac2c1d9840504bc8">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\BaiduLBS_Android_486a53291ae28ade9184e837aef3eec498228daf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ggsddu\ggsddu\libs\MobCommons-2017.0608.1618.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26d8b21098208806ac92abba3cbbf9859cda903a">
+        <dex dex="E:\ggsddu\ggsddu\build\intermediates\pre-dexed\debug\MobCommons-2017.0608.1618_ab7a8c933c72d1baea4bce23983a71331cecec5a.jar" />
+    </item>
+
+</items>

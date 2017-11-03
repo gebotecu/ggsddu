@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ListView 
+        android:id="@+id/weixin_chat_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:dividerHeight="1dp"
+        android:listSelector="@android:color/transparent"
+        android:layout_weight="1">
+        
+    </ListView>
+	
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#88cccccc"
+        android:layout_marginTop="2dp"
+        >
+
+        <com.example.ggsddu.view.WeixinChatButton
+            android:id="@+id/weixin_chat_button"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center" 
+            android:background="#ffffff"
+            android:text="摁住说话"/>
+
+        </FrameLayout>
+</LinearLayout>

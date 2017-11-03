@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+	<com.example.ggsddu.view.CombinationView 
+	    android:id="@+id/combination_view"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    />
+	 <com.example.ggsddu.view.DrawView
+	    android:id="@+id/draw_view"
+	    android:layout_width="200dp"
+	    android:layout_height="200dp"
+	    android:layout_below="@id/combination_view"
+	    />
+	 
+	 <com.example.ggsddu.view.DrawView
+	    android:id="@+id/draw_view2"
+	    android:layout_width="200dp"
+	    android:layout_height="200dp"
+	    android:layout_toRightOf="@id/draw_view"
+	    android:layout_below="@id/combination_view"
+	    />
+	 
+	 <com.example.ggsddu.view.ExtendsView
+	    android:id="@+id/extends_view"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_below="@id/draw_view"
+	    />
+	 
+</RelativeLayout>
